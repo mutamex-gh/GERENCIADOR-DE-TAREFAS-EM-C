@@ -55,6 +55,7 @@ Se tivéssemos mais tempo ou conhecimento:
 - Implementação do Bubble Sort
 - Lógica da função `contains`
 - Estrutura de laços `for` com filtros específicos
+- Ajuda na estrutura de montagem do arquivo README.md
 
 ---
 
