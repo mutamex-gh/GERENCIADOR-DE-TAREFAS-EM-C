@@ -9,10 +9,9 @@
 
 ---
 
+# 📋 Sobre o Projeto
 
-# 📋 Gerenciador de Tarefas em C
-
-Um simples gerenciador de tarefas feito em linguagem C, com armazenamento em memória (array de `structs`) e funcionalidades básicas como criação, listagem, filtragem e ordenação de tarefas.
+O projeto consiste em um simples gerenciador de tarefas feito em linguagem C, com armazenamento em memória (array de `structs`) e funcionalidades básicas como criação, listagem, filtragem e ordenação de tarefas.
 
 ---
 
