@@ -40,10 +40,10 @@ Se tivéssemos mais tempo ou conhecimento:
 - Salvamento automático de tarefas.
 
 ### 7. O que foi pesquisado ou ajudado:
-- Implementação do Bubble Sort
-- Maneira de montar o header e implementar a biblioteca
+- Implementação do `Bubble Sort`
+- Maneira de montar o `header` e `implementar a biblioteca`
 - Estrutura de laços `for` com filtros específicos
-- Ajuda na montagem do **layout** do README.md
+- Ajuda na montagem do `**layout**` do `README.md`
 
 ---
 
@@ -51,7 +51,7 @@ Se tivéssemos mais tempo ou conhecimento:
 
 - Linguagem C
 - OnlineGDB
-- Estrutura modular com `.c` e `.h`
+- Estrutura com headers
 
 ---
 
