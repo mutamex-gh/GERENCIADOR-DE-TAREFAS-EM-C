@@ -54,7 +54,7 @@ Se tivéssemos mais tempo ou conhecimento:
 - Implementação do `Bubble Sort`
 - Maneira de montar o `header` e `implementar a biblioteca`
 - Estrutura de laços `for` com filtros específicos
-- Ajuda na montagem do `**layout**` do `README.md`
+- Ajuda na montagem do **layout** do `README.md`
 
 ---
 
