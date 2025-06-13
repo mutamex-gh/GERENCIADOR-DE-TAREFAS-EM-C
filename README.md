@@ -1,9 +1,9 @@
 # 🎓 Uno Chapecó
 
 - **Professor:** Diego Turazzi
-- *Integrantes do grupo:** Gustavo Henrique, Guilherme Morais, Arthur Restello e Pamela Pietroski.
+- **Integrantes do grupo:** Gustavo Henrique, Guilherme Morais, Arthur Restello e Pamela Pietroski.
 
-Tuma CX da Matéria de Fundamentos de Algoritimos e Programação.
+**Tuma CX da Matéria de Fundamentos de Algoritimos e Programação.**
 
 ![logo_unochapeco_TeV0vd](https://github.com/user-attachments/assets/3f3e57b7-9355-4fa6-b30d-c77bbd454576)
 
