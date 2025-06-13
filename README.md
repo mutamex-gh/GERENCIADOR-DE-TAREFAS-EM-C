@@ -1,7 +1,5 @@
 <p align="center">
-  # Uno-Chapecó
-
-  ![logo_unochapeco_TeV0vd](https://github.com/user-attachments/assets/bc6f176c-aae0-4a8c-bd63-a66feb443d85)
+# Uno-Chapecó
 </p>
 
 **Professor:** Diego Turazzi
@@ -9,6 +7,9 @@
 
 Tuma CX da Matéria de Fundamentos de Algoritimos e Programação.
 
+<p align="center">
+  <img src="https://raichu-uploads.s3.amazonaws.com/logo_unochapeco_TeV0vd.png" alt="Logo" width="200"/>
+</p>
 ---
 
 
