@@ -5,7 +5,9 @@
 
 **Tuma CX da Matéria de Fundamentos de Algoritimos e Programação.**
 
-![logo_unochapeco_TeV0vd](https://github.com/user-attachments/assets/3f3e57b7-9355-4fa6-b30d-c77bbd454576)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f3e57b7-9355-4fa6-b30d-c77bbd454576" alt="Logo" width="200"/>
+</p>
 
 ---
 
