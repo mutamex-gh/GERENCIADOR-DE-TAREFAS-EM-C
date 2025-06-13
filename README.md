@@ -4,18 +4,6 @@ Um simples gerenciador de tarefas feito em linguagem C, com armazenamento em mem
 
 ---
 
-## 🚀 Sobre o Projeto
-
-Este projeto foi desenvolvido com o objetivo de praticar conceitos de programação estruturada em C, como:
-
-- Uso de `structs`
-- Modularização com múltiplos arquivos (`main.c`, `funcoes.c`, etc.)
-- Manipulação de arrays
-- Implementação de algoritmos de ordenação (Bubble Sort)
-- Uso de flags e funções auxiliares para controle de fluxo
-
----
-
 ## ✅ Funcionalidades
 
 - [x] Adicionar nova tarefa
@@ -32,10 +20,10 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos de programaç
 Um **gerenciador de tarefas** simples baseado em `structs`, com todas as funções implementadas manualmente e utilizando **memória temporária** (array).
 
 ### 2. Parte mais fácil de implementar:
-A parte mais simples foi implementar as estruturas básicas e as funções iniciais como `criarTarefa` e `listarTarefas`.
+As partes mais simples de implementar foram as estruturas básicas e as funções iniciais como `criarTarefa`, `removerTarefa (somente jogar o indice em -1)` e `listarTarefas (usando um for com os indices)` .
 
 ### 3. Parte mais difícil de implementar:
-A **pesquisa por prioridade** foi a mais desafiadora, pois exigiu a criação de um algoritmo de ordenação (Bubble Sort). Foi difícil entender que essa era a solução necessária para o problema.
+A **pesquisa por prioridade** foi a mais desafiadora, pois exigiu a implementação de um algoritmo de ordenação (Bubble Sort). Foi difícil entender que essa era a solução necessária para o problema.
 
 ### 4. Desafios técnicos:
 - Entender que precisávamos de uma **flag** e de uma função `contains` para verificar se havia tarefas criadas antes de listá-las.
@@ -53,22 +41,21 @@ Se tivéssemos mais tempo ou conhecimento:
 
 ### 7. O que foi pesquisado ou ajudado:
 - Implementação do Bubble Sort
-- Lógica da função `contains`
+- Maneira de montar o header e implementar a biblioteca
 - Estrutura de laços `for` com filtros específicos
-- Ajuda na estrutura de montagem do arquivo README.md
+- Ajuda na montagem do **layout** do README.md
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - Linguagem C
-- GCC (compilador)
-- Terminal / CLI
+- OnlineGDB
 - Estrutura modular com `.c` e `.h`
 
 ---
 
-## 📁 Link do OnlineGDB
+## 📁 Link do codigo no OnlineGDB
 
 - 👉 [Projeto no OnlineGDB](https://onlinegdb.com/CzM0vtqu5)
 
