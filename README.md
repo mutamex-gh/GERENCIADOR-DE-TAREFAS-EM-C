@@ -1,3 +1,15 @@
+# UNO-CHAPECÓ
+
+**Professor:** Diego Turazzi
+**Integrantes do grupo:** Gustavo Henrique, Guilherme Morais, Arthur Restello e Pamela Pietroski.
+
+Tuma CX da Matéria de Fundamentos de Algoritimos e Programação.
+
+![logo_unochapeco_TeV0vd](https://github.com/user-attachments/assets/bc6f176c-aae0-4a8c-bd63-a66feb443d85)
+
+---
+
+
 # 📋 Gerenciador de Tarefas em C
 
 Um simples gerenciador de tarefas feito em linguagem C, com armazenamento em memória (array de `structs`) e funcionalidades básicas como criação, listagem, filtragem e ordenação de tarefas.
