@@ -3,7 +3,7 @@
 - **Professor:** Diego Turazzi
 - **Integrantes do grupo:** Gustavo Henrique, Guilherme Morais, Arthur Restello e Pamela Pietroski.
 
-**Tuma CX da Matéria de Fundamentos de Algoritimos e Programação.**
+**Tuma CX da Matéria de Algoritimos e Programação.**
 
 ![logo_unochapeco_TeV0vd](https://github.com/user-attachments/assets/ac1149ab-13c4-44df-b7c0-eddbe1fecd16)
 
